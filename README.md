@@ -20,6 +20,7 @@ git clone https://github.com/SalmaaOsamaa/RenosystemsTask.git
    ```
 
 <h6>In order to run db on localhost</h6>
+
 2. install json
  ```bash
    npm install
