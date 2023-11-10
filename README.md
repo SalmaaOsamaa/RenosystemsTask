@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Dashboard
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-38B2AC?style=for-the-badge&logo=MUI&logoColor=white)
 
 
 
@@ -18,3 +19,13 @@ git clone https://github.com/SalmaaOsamaa/RenosystemsTask.git
    npm start
    ```
 
+<h6>In order to run db on localhost</h6>
+2. install json
+ ```bash
+   npm install
+  ```
+   
+3. run the project 
+```bash
+   npm start
+   ```
