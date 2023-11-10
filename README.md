@@ -23,10 +23,11 @@ git clone https://github.com/SalmaaOsamaa/RenosystemsTask.git
 
 2. install json
  ```bash
-   npm install
+   npm install json-server
   ```
    
-3. run the project 
+3. run this command
 ```bash
-   npm start
+  json-server --watch --port
+ 4000 ./_db/db.json
    ```
