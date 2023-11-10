@@ -5,7 +5,7 @@
 ## Installation
 1. Clone the repo 
 ```sh
-git clone https://github.com/SalmaaOsamaa/kitchentable-resturant.git
+git clone https://github.com/SalmaaOsamaa/RenosystemsTask.git
 ```
 
 2. install dependenscies
