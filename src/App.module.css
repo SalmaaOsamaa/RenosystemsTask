@@ -1,0 +1,32 @@
+.App {
+  display: flex;
+    width: 100vw;
+    height: 100vh;
+  }
+  
+  
+  
+  @media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+      animation: App-logo-spin infinite 20s linear;
+    }
+    .css-1anuvfp-MuiContainer-root{
+      margin: 0 !important;
+      padding: 0 !important;
+  
+    }
+  }
+  
+  body{
+    margin: 0;
+    padding: 0;
+  }
+  .css-1anuvfp-MuiContainer-root{
+    margin: 0 !important;
+    padding: 0 !important;
+
+  }
+  p{
+    margin: 0 !important;
+    padding: 0 !important;
+  }
