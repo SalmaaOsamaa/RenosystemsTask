@@ -1,9 +1,20 @@
 # Getting Started with Create React App
 
 
-## Available Scripts
 
-In the project directory, you can run:
-### `npm install`
-### `npm start`
+## Installation
+1. Clone the repo 
+```sh
+git clone https://github.com/SalmaaOsamaa/kitchentable-resturant.git
+```
+
+2. install dependenscies
+ ```bash
+   npm install
+  ```
+   
+3. run the project 
+```bash
+   npm start
+   ```
 
