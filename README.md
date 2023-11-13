@@ -28,6 +28,5 @@ git clone https://github.com/SalmaaOsamaa/RenosystemsTask.git
    
 3. run this command
 ```bash
-  json-server --watch --port
- 4000 ./_db/db.json
+json-server --watch _db/db.json --port 4000
    ```
